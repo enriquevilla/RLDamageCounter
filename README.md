@@ -2,7 +2,7 @@
 RuneLite damage counter plugin that currently tracks overall damage inflicted
 
 ## Config menu
-<img src="img/config.png"/>
+<img src="img/config.PNG"/>
 
 Config options:
 - **Save damage**  allows for saving or resetting the damage after the overlay is hidden.
